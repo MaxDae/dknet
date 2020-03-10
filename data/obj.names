@@ -1,0 +1,9 @@
+invoice_date
+invoice_num
+start_date
+period_start
+period_end
+total_charges
+currency_format
+total_calls
+total_min
